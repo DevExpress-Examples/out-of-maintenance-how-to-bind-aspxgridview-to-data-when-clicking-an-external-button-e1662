@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind ASPxGridView to data when clicking an external button
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1662/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to bind ASPxGridView to data in the external button click event handler.</p>
